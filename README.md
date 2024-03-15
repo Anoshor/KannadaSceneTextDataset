@@ -1,8 +1,19 @@
-# KannadaSceneTextDataset
 
-Publicly available dataset for Kannada Scene Text curated by us.
+# Kannada Scene Text Dataset
 
-Feel free to use.
+Publicly available dataset for Kannada Scene Text.
 
-Here's a sample image of our dataset
-![](https://github.com/Anoshor/KannadaSceneTextDataset/blob/main/sample.jpg)
+Feel free to use
+
+
+## Sample Image
+
+![Sample](https://github.com/Anoshor/KannadaSceneTextDataset/blob/main/sample.jpg)
+
+
+## Authors
+
+- [@Anoshor B. Paul](https://www.github.com/anoshor)
+- [@G Sai Vikrant](https://www.github.com/1bm21cs061)
+
+
